@@ -1,12 +1,27 @@
 # Projects
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+
+#Edit project Continuous Improvement and Integration
+project: Continuous Improvement and Integration
+duration: Jul 2016 – Present
+description: Working as a part of DevOps team 
+Creating fully automated CI build and deployment infrastructure and processes for multiple projects
+Using TeamCity, Git, Clearcase, JIRA, ClearQuest.
+Working closely with Development, Test and IT Services teams
+Developing scripts for build, deployment, maintenance and related tasks using TeamCity, JIRA and Python
+Installing, configuring and maintaining Continuous Integration, Automation and Configuration Management tools
+#Edit project Core Network Simulator
+project: Core Network Simulator
+duration: Jul 2014 – Jul 2014
+description: Designed Finite state machine to handle Mobile originated, mobile terminated and SRVCC call according to 3gpp standards
+•	Mapped the design to existing system of core network simulator for UTRAN.
+•	Involved in testing and debugging of the application.
+
+#Edit project GERAN Load Test Simulator
+project: GERAN Load Test Simulator
+duration: Jul 2013 – Jul 2013
+description: Base transceiver system GERAN Load Test Simulator
+•	Worked for a leading client in test equipment, RF and microwave integrated circuits, components and systems used for wireless communications.
+•	Worked on Design and development of User interface of software.
+•	Mapping Customer Requirements in to existing system, determining gaps and visualising requirement.
+•	Finalizing technical / functional specifications as well as designing, developing, testing, troubleshooting and debugging of the application.
